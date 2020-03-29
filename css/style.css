@@ -17,5 +17,16 @@
   
   #main-doc { 
     margin-left: 300px; 
-  }  
+  }   
+}
+
+@media only screen and (max-width: 600px){
+
+#navbar{
+  position: fixed;
+  top: 0;
+  overflow: hidden;
+  width: 100%;
+  background-color: grey;
+}
 }
