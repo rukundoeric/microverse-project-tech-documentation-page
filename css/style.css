@@ -1,14 +1,21 @@
 
 
 @media only screen and (min-width: 600px) {
+    
+  #navbar { 
+    width: 500px; 
+    min-height: 100vh; position: fixed; 
+    top: 0; 
+    left: 0; 
+    bottom: 0; 
+    z-index: 11; 
+    margin-top: 0px; 
+    padding: 30px 0; 
+    width: 300px; 
+    color: #fff; 
+  } 
   
-  .container-g{
-    display: flex;
-    width: 100%;
-  }
-  
-    #navbar {
-      width: 300px;
-    }
-  
+  #main-doc { 
+    margin-left: 300px; 
+  }  
 }
