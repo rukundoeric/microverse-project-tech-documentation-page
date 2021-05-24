@@ -4,4 +4,7 @@
 
 You don't know how to fork a project? [Click hear](https://help.github.com/articles/fork-a-repo/) to learn how to do it.
 
+Live Preview:
 https://rukundoeric.github.io/microverse-project-tech-documentation-page/index
+
+Set 'Select Test Suite:' to 'Technical Documentation Page'
